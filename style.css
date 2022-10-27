@@ -1,0 +1,17 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    text-decoration:dashed;
+    background-image: -webkit-linear-gradient(#EEE5E9, #7CA5B8);
+}
+button{
+    border:#F4EBBE;
+    height: 40px;
+    width: 70px;
+}
+input{
+    width: 150;
+    height: 40;
+}
+h1{
+    text-decoration: underline;
+}
