@@ -1,0 +1,17 @@
+body
+{
+    font-family: 'Raleway', sans-serif;
+    text-decoration:dashed;
+    background-image: -webkit-linear-gradient(#EEE5E9, #7CA5B8);
+}
+#ouput{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    border-top: 10px solid lightskyblue;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+h1{
+    font-size: 50px;
+}
